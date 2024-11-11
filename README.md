@@ -23,4 +23,4 @@ This repository hosts an R Shiny application designed for exploring single-cell 
 2. **Explore Gene Expression**: Visualize gene expression across clusters or sample conditions. Interactive plots allow you to investigate specific genes of interest.
 3. **Analyze Differential Expression**: Browse tables of differentially expressed genes, and use sorting or filtering options to focus on specific markers or conditions.
 
-The app.R file contains an example R file for creating a similar R shiny app. The exact code used for creating this dashboard can supplied upon request (due to data privacy). 
+The R code (app.R file) for creating the R shiny app can supplied upon request (due to data privacy). 
