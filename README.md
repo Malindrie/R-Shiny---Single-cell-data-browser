@@ -10,13 +10,16 @@ This repository hosts an R Shiny application designed for exploring single-cell 
 </div>
 
 # Features
-**Dataset Selection**: Choose from multiple datasets, including:
+## Dataset Selection: 
+Choose from multiple datasets, including:
 1. Sample collection datasets 
 2. Condition-based comparisons 
-**Gene Expression Visualization**: Visualize gene expression patterns using:
+## Gene Expression Visualization: 
+Visualize gene expression patterns using:
 1. Cluster and condition-based differential gene expression
 2. UMAP plots to observe clustering patterns
-**Dynamic Data Table**: Access and interact with data tables showing differentially expressed genes, which can be sorted, filtered, and searched.
+## Dynamic Data Table: 
+Access and interact with data tables showing differentially expressed genes, which can be sorted, filtered, and searched.
 
 # Usage
 1. **Select Dataset**: Use the sidebar to select a dataset. Each option corresponds to a specific sample or condition-based dataset for Down Syndrome analysis.
